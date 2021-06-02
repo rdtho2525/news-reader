@@ -1,7 +1,10 @@
 import './App.css';
-
+import 'normalize.css';
 function App() {
-  return
+  return (
+    <>
+    </>
+  )
 }
 
 export default App;
