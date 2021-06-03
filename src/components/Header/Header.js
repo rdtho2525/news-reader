@@ -10,13 +10,14 @@ const Header = ({ getSearchResults, handleSearch, navToViewStories }) => {
 
   return (
     <header className="header-app_header">
-      <div className="header-search_container">
+      <form className="header_search-form">
         <SearchIcon />
         <input 
           className="header_search-input"
           type="text" 
           placeholder="Search by Article"
           onChange={(event) => handleSearch(event)}
+          required
           />
         <Link to="stories">
           <button 
@@ -25,7 +26,7 @@ const Header = ({ getSearchResults, handleSearch, navToViewStories }) => {
             Search
           </button>
         </Link>
-      </div>
+      </form>
       <div className="header_nav-container">
         <Link to="/" className="header_nav-link" >
           Home
