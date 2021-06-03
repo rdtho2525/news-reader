@@ -38,7 +38,6 @@ function App() {
 
   const handleSearch = (e) => {
     setSearchInput(e.target.value.toLowerCase());
-    // clearInput();
   }
 
   const navToViewStories = () => {
@@ -62,6 +61,7 @@ function App() {
       getSearchResults={getSearchResults}
       handleSearch={handleSearch}
       navToViewStories={navToViewStories}
+      clearInput={clearInput}
       />
       {error && <h2 className="app_error">⚠️ {error}</h2>}
       {!error &&
