@@ -1,4 +1,3 @@
-import { ContactSupportOutlined } from '@material-ui/icons';
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import KeyboardReturnIcon from '@material-ui/icons/KeyboardReturn';
