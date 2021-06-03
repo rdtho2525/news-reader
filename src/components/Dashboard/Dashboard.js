@@ -5,7 +5,7 @@ import './Dashboard.css';
 
 const Dashboard = ({ articles }) => {
   const featuredArticle = articles.map((article, i) => {
-    if (i === 0) {
+    if (i < 1) {
       return (
         <Link to={article.title} className="dashboard_featured-article" key={`${article.title}-${i}`}>
           <FeaturedArticle article={article}/>
