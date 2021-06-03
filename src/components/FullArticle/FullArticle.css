@@ -1,0 +1,34 @@
+.full-article_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.full-article_img {
+  width: 50%;
+}
+
+.full-article_photo-caption-container {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  padding: 6px;
+  font-size: .8rem;
+  font-style: italic;
+  color: hsla(0, 0%, 0%, .5);
+}
+
+.full-article_photo-caption {
+  width: 65%;
+}
+
+.full-article_dates {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.full-article_dates > p {
+  margin-bottom: 5px;
+  justify-self: flex-start;
+}
