@@ -1,6 +1,5 @@
 .dashboard_featured-section {
   height: 657px;
-  /* min-width: 375px; */
   max-width: 661px;
   display: flex;
 }
@@ -13,7 +12,6 @@
 }
 
 .dashboard_articles-section {
-  /* min-widtH: 460px; */
   max-width: 750px;
   display: flex;
   flex-wrap: wrap;
