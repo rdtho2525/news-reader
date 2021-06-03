@@ -1,0 +1,11 @@
+.article-card_img {
+  width: 100vw;
+  border-radius: 10px;
+}
+
+.article-card_title {
+  height: 131px;
+  margin-top: 5px;
+  font-size: 1.25rem;
+  display: flex;
+}
