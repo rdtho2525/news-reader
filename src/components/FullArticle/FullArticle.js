@@ -32,7 +32,6 @@ const FullArticle = ({ title, articles }) => {
           </aside>
           <p className="full-article_link-text">View full story <a className="full-article_external-link" href={currentArticle.url} target="_blank">here</a>:</p>
         </section>
-        <footer className="full-article_footer">{currentArticle.copyright}</footer>
       </>
       )}
     </>
