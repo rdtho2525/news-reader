@@ -5,12 +5,13 @@
 }
 
 .browse-articles_content-container {
+  width: 100%;
   margin: 5px 15px;
 }
 
 .browse-articles_article {
-  width: 52%;
-  max-width: 425px;
+  height: 343px;
+  width: 305px;
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0;
