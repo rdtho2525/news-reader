@@ -2,6 +2,9 @@ import { useState, useEffect } from 'react'
 import { fetchUSStories } from '../../api';
 import Dashboard from '../Dashboard/Dashboard.js';
 import Header from '../Header/Header.js';
+import FullArticle from '../FullArticle/FullArticle.js';
+import { CircularProgress } from '@material-ui/core';
+
 import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import 'normalize.css';
@@ -23,18 +26,30 @@ function App() {
     getArticles();
   } , []);
 
-  if (error) return <h2 className="app_error">⚠️ {error}</h2>;
 
   return (
     <>
       <Header />
+      {error && <h2 className="app_error">⚠️ {error}</h2>}
+      {!error &&
       <main className="app_main">
         <Switch>
           <Route exact path="/">
-            <Dashboard articles={articles} />
+            {!articles.length ? <CircularProgress /> :
+            <Dashboard articles={articles} />}
           </Route>
+          <Route exact path="/:title" render={({ match }) => {
+            const { title } = match.params;
+            return (
+              <FullArticle
+                title={title}
+                articles={articles}
+              />
+            )
+          }} />
         </Switch>
       </main>
+      }
     </>
   )
 }

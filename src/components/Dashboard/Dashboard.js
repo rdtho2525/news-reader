@@ -7,7 +7,7 @@ const Dashboard = ({ articles }) => {
   const featuredArticle = articles.map((article, i) => {
     if (i === 0) {
       return (
-        <Link to="" className="dashboard_featured-article">
+        <Link to={article.title} className="dashboard_featured-article" key={`${article.title}-${i}`}>
           <FeaturedArticle article={article}/>
         </Link>
       )
@@ -17,7 +17,7 @@ const Dashboard = ({ articles }) => {
   const displayedArticles = articles.map((article, i) => {
     if (i > 0 && i < 5) {
       return (
-        <Link to="" className="dashboard_article">
+        <Link to={article.title} className="dashboard_article" key={`${article.title}-${i}`}>
           <ArticleCard article={article}/>
         </Link>
       )
@@ -27,17 +27,13 @@ const Dashboard = ({ articles }) => {
   return (
     <>
       <div className="dashboard_content-container">
-        {/* <header> */}
-          <h2 className="header">Featured Article:</h2>
-        {/* </header> */}
+        <h2 className="header">Featured Article:</h2>
         <section className="dashboard_featured-section">
           {featuredArticle}
         </section>
       </div>
       <div className="dashboard_content-container">
-        {/* <header> */}
-          <h2 className="header">Around the U.S.:</h2>
-        {/* </header> */}
+        <h2 className="header">Around the U.S.:</h2>
         <section className="dashboard_articles-section">
           {displayedArticles}
         </section>
