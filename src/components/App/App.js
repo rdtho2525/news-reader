@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { fetchUSStories } from '../../api';
 import Dashboard from '../Dashboard/Dashboard.js';
+import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import 'normalize.css';
 
@@ -24,9 +25,13 @@ function App() {
   if (error) return <h2 className="app_error">⚠️ {error}</h2>;
 
   return (
-    <>
-      <Dashboard articles={articles} />
-    </>
+    <main className="app_main">
+      <Switch>
+        <Route exact path="/">
+          <Dashboard articles={articles} />
+        </Route>
+      </Switch>
+    </main>
   )
 }
 
