@@ -1,5 +1,5 @@
 * {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -9,4 +9,8 @@ html,
 body {
   height: 100%;
   width: 100%;
+}
+
+.app_main {
+  display: flex;
 }
