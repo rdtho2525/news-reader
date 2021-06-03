@@ -1,0 +1,17 @@
+.browse-articles_articles-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.browse-articles_content-container {
+  margin: 5px 15px;
+}
+
+.browse-articles_article {
+  width: 52%;
+  max-width: 425px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px 0;
+}
