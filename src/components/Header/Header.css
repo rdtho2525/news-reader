@@ -1,0 +1,26 @@
+.header-app_header {
+  height: 8vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid black;
+  margin-bottom: 1%;
+  padding: 0 10px;
+}
+
+.header-search_container,
+.header_stories-link {
+  height: 45%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.header_search-input {
+  height: 100%;
+  font-size: 1.25rem;
+}
+
+.header_stories-link {
+  font-size: 1.25rem;
+}

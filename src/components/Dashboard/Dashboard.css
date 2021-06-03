@@ -1,10 +1,6 @@
-.header {
-  margin-bottom: 5px;
-}
-
 .dashboard_featured-section {
   height: 657px;
-  min-width: 375px;
+  /* min-width: 375px; */
   max-width: 661px;
   display: flex;
 }
@@ -17,7 +13,7 @@
 }
 
 .dashboard_articles-section {
-  min-widtH: 460px;
+  /* min-widtH: 460px; */
   max-width: 750px;
   display: flex;
   flex-wrap: wrap;
@@ -30,4 +26,8 @@
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0;
+}
+
+.dashboard_content-container {
+  margin: 5px 15px;
 }
