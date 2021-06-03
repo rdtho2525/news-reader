@@ -1,6 +1,8 @@
 .dashboard_featured-section {
   height: 657px;
   width: 46%;
+  min-width: 375px;
+  max-width: 661px;
   display: flex;
   justify-content: center;
 }
@@ -8,6 +10,7 @@
 .dashboard_featured-article {
   height: 66%;
   width: 95%;
+  max-width: 557px;
   display: flex;
   flex-direction: column;
   margin-top: 10%;
@@ -15,6 +18,8 @@
 
 .dashboard_articles-section {
   width: 54%;
+  min-widtH: 460px;
+  max-width: 750px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -22,6 +27,7 @@
 
 .dashboard_article {
   width: 49%;
+  max-width: 350px;
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0;
