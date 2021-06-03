@@ -20,3 +20,8 @@ a:hover {
   text-decoration: underline;
   color: hsla(0, 0%, 0%, .6);
 }
+
+.app_error {
+  margin: 10px 0;
+  text-align: center;
+}
