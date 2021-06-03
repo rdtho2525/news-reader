@@ -1,0 +1,28 @@
+.dashboard_featured-section {
+  height: 657px;
+  width: 46%;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard_featured-article {
+  height: 66%;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+}
+
+.dashboard_articles-section {
+  width: 54%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.dashboard_article {
+  width: 49%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px 0;
+}
