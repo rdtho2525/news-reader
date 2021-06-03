@@ -25,3 +25,16 @@
 .header_stories-link {
   font-size: 1.25rem;
 }
+
+.header_search-button {
+  margin-left: 5px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.header_search-button:hover {
+  background-color: hsla(0, 0%, 0%, .6);
+  color: hsl(0, 100%, 99%);
+  cursor: pointer;
+}
