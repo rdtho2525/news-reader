@@ -1,3 +1,11 @@
+.full-article_back-button {
+  height: 25px;
+  width: 65px;
+  display: flex;
+  transform: translate(100%);
+  margin-right: 100px;
+}
+
 .full-article_section {
   height: 95%;
   display: flex;

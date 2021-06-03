@@ -1,5 +1,7 @@
 import { ContactSupportOutlined } from '@material-ui/icons';
 import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
+import KeyboardReturnIcon from '@material-ui/icons/KeyboardReturn';
 import './FullArticle.css';
 
 const FullArticle = ({ title, articles }) => {
@@ -18,6 +20,10 @@ const FullArticle = ({ title, articles }) => {
     <>
       {currentArticle && (
       <>
+        <Link to="/" className="full-article_back-button click">
+          <KeyboardReturnIcon className="full-article_return-arrow"/>
+            Back
+        </Link>         
         <section className="full-article_section">
           <h2 className="full-article_title">{currentArticle.title}</h2>
           <h3 className="full-article_abstract">{currentArticle.abstract}</h3>
