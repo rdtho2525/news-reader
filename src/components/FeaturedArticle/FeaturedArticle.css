@@ -1,0 +1,10 @@
+.featured-article_img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.featured-article_title {
+  margin-top: 7px;
+  font-size: 1.75rem;
+  text-align: center;
+}
