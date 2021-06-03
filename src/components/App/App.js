@@ -31,6 +31,7 @@ function App() {
     <>
       <Header />
       {error && <h2 className="app_error">⚠️ {error}</h2>}
+      {!error &&
       <main className="app_main">
         <Switch>
           <Route exact path="/">
@@ -48,6 +49,7 @@ function App() {
           }} />
         </Switch>
       </main>
+      }
     </>
   )
 }
