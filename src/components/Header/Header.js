@@ -26,9 +26,14 @@ const Header = ({ getSearchResults, handleSearch, navToViewStories }) => {
           </button>
         </Link>
       </div>
-      <Link to="/stories" className="header_stories-link" onClick={() => navToViewStories()}>
-        View All Stories
-      </Link>
+      <div className="header_nav-container">
+        <Link to="/" className="header_nav-link" >
+          Home
+        </Link>
+        <Link to="/stories" className="header_nav-link" onClick={() => navToViewStories()}>
+          View All Stories
+        </Link>
+      </div>
     </header>
   )
 }
