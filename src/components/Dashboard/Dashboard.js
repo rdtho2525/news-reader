@@ -26,18 +26,18 @@ const Dashboard = ({ articles }) => {
 
   return (
     <>
-      <div>
-        <header>
+      <div className="dashboard_content-container">
+        {/* <header> */}
           <h2 className="header">Featured Article:</h2>
-        </header>
+        {/* </header> */}
         <section className="dashboard_featured-section">
           {featuredArticle}
         </section>
       </div>
-      <div>
-        <header>
+      <div className="dashboard_content-container">
+        {/* <header> */}
           <h2 className="header">Around the U.S.:</h2>
-        </header>
+        {/* </header> */}
         <section className="dashboard_articles-section">
           {displayedArticles}
         </section>
