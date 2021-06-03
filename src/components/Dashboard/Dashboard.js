@@ -14,7 +14,9 @@ const Dashboard = ({ articles }) => {
     } 
   });
 
-  const displayedArticles = articles.map((article, i) => {
+  const displayedArticles = articles.filter(article => {
+    return article.section === 'us'
+  }).map((article, i) => {
     if (i > 0 && i < 5) {
       return (
         <Link to={article.title} className="dashboard_article" key={`${article.title}-${i}`}>
