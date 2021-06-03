@@ -11,7 +11,9 @@ import 'normalize.css';
 
 function App() {
   const [ articles, setArticles ] = useState([]);
-  const [ searchInput, setSearchInput ] = useState('')
+  const [ searchResults, setSearchResults ] = useState([]);
+  const [ message, setMessage ] = useState('')
+  const [ searchInput, setSearchInput ] = useState('');
   const [ error, setError ] = useState('');
 
   const getArticles = async () => {
@@ -23,13 +25,30 @@ function App() {
     }
   }
 
-  const getSearchResults = async (e) => {
-    try {
-      const stories = await fetchUSStories(e.target.value);
-      setSearchInput(stories);
-    } catch {
-      setError(`We were unable to find any results for "${e.target.value}". Please refine your search.`)
+  const getSearchResults = () => {
+   const results = articles.filter(article => article.title.toLowerCase().includes(searchInput))
+   setSearchResults(results);
+
+   if (!!results.length) {
+      setMessage(`Search results for: '${searchInput}'`);
+    } else {
+      setMessage(`There were no search results for: '${searchInput}'`);
     }
+  }
+
+  const handleSearch = (e) => {
+    setSearchInput(e.target.value.toLowerCase());
+    // clearInput();
+  }
+
+  const navToViewStories = () => {
+    setMessage('Viewing All Stories');
+    setSearchResults([]);
+    clearInput();
+  }
+
+  const clearInput = () => {
+    setSearchInput('');
   }
 
   useEffect(() => {
@@ -39,14 +58,22 @@ function App() {
 
   return (
     <>
-      <Header getSearchResults={getSearchResults} />
+      <Header 
+      getSearchResults={getSearchResults}
+      handleSearch={handleSearch}
+      navToViewStories={navToViewStories}
+      />
       {error && <h2 className="app_error">⚠️ {error}</h2>}
       {!error &&
       <main className="app_main">
         <Switch>
           <Route exact path="/stories">
             {!articles.length ? <CircularProgress /> :
-            <BrowseArticles articles={articles} />}
+            <BrowseArticles 
+              articles={articles}
+              searchResults={searchResults}
+              message={message}
+            />}
           </Route>
           <Route exact path="/">
             {!articles.length ? <CircularProgress /> :
