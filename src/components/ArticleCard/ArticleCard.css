@@ -4,8 +4,9 @@
 }
 
 .article-card_title {
-  height: 131px;
-  margin-top: 5px;
+  height: 28%;
+  margin: 0 auto;
+  padding: 7px;
   font-size: 1.25rem;
   display: flex;
 }
