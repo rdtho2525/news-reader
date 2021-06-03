@@ -45,8 +45,18 @@
 }
 
 .full-article_abstract {
-  width: 40%;
+  width: 65%;
   text-align: center;
   font-size: 1em;
   font-weight: 300;
+}
+
+.full-article_link-text {
+  font-style: italic;
+}
+
+.full-article_external-link {
+  color: blue;
+  font-weight: 700;
+  text-decoration: underline;
 }
