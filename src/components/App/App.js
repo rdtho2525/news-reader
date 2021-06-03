@@ -26,11 +26,11 @@ function App() {
     getArticles();
   } , []);
 
-  if (error) return <h2 className="app_error">⚠️ {error}</h2>;
 
   return (
     <>
       <Header />
+      {error && <h2 className="app_error">⚠️ {error}</h2>}
       <main className="app_main">
         <Switch>
           <Route exact path="/">
