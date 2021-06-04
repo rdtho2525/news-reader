@@ -1,12 +1,12 @@
+.browse-articles_content-container {
+  width: 100%;
+  margin: 5px 15px;
+}
+
 .browse-articles_articles-section {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-}
-
-.browse-articles_content-container {
-  width: 100%;
-  margin: 5px 15px;
 }
 
 .browse-articles_article {
@@ -15,4 +15,15 @@
   display: flex;
   flex-wrap: wrap;
   margin: 5px 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .browse-articles_content-container {
+    width: 95%;
+  }
+
+  .browse-articles_article {
+    height: 387px;
+    width: 350px;
+  }
 }
