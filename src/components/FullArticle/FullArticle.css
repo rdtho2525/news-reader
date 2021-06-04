@@ -44,7 +44,7 @@
 }
 
 .full-article_dates > p {
-  justify-self: flex-start;
+  justify-self: flex-end;
 }
 
 .full-article_title {
@@ -67,4 +67,31 @@
   color: blue;
   font-weight: 700;
   text-decoration: underline;
+}
+
+@media only screen and (max-width: 768px) {
+ .full-article_section {
+   justify-content: flex-start;
+ }
+
+ .full-article_section > * {
+   margin: 7px 0px;
+ }
+
+ .full-article_img {
+   width: 92%;
+ }
+
+ .full-article_photo-caption-container {
+   width: 90%;
+ }
+
+ .full-article_photo-caption {
+   width: 80%;
+ }
+
+ .full-article_back-button {
+   align-self: center;
+   margin-top: 5px;
+ }
 }
