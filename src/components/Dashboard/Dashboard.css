@@ -37,3 +37,18 @@
     margin: 0 auto;
   }
 }
+
+@media only screen and (max-width: 500px) {  
+  .dashboard_featured-section {
+    height: 375px;
+  }  
+
+  .dashboard_featured-article {
+    height: 0;
+  }  
+  .dashboard_article {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+}
