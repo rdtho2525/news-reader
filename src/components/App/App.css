@@ -25,3 +25,9 @@ a:hover {
   margin: 10px 0;
   text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+  .app_main {
+    flex-direction: column;
+  }
+}

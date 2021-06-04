@@ -58,10 +58,10 @@ function App() {
   return (
     <>
       <Header 
-      getSearchResults={getSearchResults}
-      handleSearch={handleSearch}
-      navToViewStories={navToViewStories}
-      clearInput={clearInput}
+        getSearchResults={getSearchResults}
+        handleSearch={handleSearch}
+        navToViewStories={navToViewStories}
+        clearInput={clearInput}
       />
       {error && <h2 className="app_error">⚠️ {error}</h2>}
       {!error &&
