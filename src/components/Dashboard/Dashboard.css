@@ -29,3 +29,11 @@
 .dashboard_content-container {
   margin: 5px 15px;
 }
+
+@media only screen and (max-width: 768px) {
+  .dashboard_featured-section {
+    height: 450px;
+    justify-content: center;
+    margin: 0 auto;
+  }
+}

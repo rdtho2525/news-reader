@@ -53,3 +53,10 @@
   color: hsl(0, 100%, 99%);
   cursor: pointer;
 }
+
+@media only screen and (max-width: 768px) {
+  .header {
+    margin: 5px 0px 10px;
+    text-align: center;
+  }
+}
