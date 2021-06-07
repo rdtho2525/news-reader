@@ -19,7 +19,7 @@ const FullArticle = ({ title, articles }) => {
     <>
       {currentArticle && (
       <>
-        <Link to="/" className="full-article_back-button click">
+        <Link to="/" className="full-article_back-button click" data-cy="full-article_back-button">
           <KeyboardReturnIcon className="full-article_return-arrow"/>
             Back
         </Link>         
