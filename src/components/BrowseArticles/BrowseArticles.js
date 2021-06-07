@@ -16,7 +16,11 @@ const BrowseArticles = ({ articles, searchResults, message }) => {
 
   const displayedStories = allArticles.map((article, i) => {
     return (
-      <Link to={article.title} className="browse-articles_article" key={`${article.title}-${i}`}>
+      <Link 
+        to={article.title}
+        className="browse-articles_article" 
+        data-cy={`browse-articles_article-${i}`} 
+        key={`${article.title}-${i}`}>
         <ArticleCard article={article}/>
       </Link>
     )
@@ -29,8 +33,8 @@ const BrowseArticles = ({ articles, searchResults, message }) => {
   return (
     <>
       <div className="browse-articles_content-container">
-        <h2 className="header">{message}</h2>
-        <section className="browse-articles_articles-section">
+        <h2 className="header" data-cy="header">{message}</h2>
+        <section className="browse-articles_articles-section" data-cy="browse-articles_articles-section">
           {displayedStories}
         </section>
       </div>

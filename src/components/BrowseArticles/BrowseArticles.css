@@ -6,7 +6,7 @@
 .browse-articles_articles-section {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .browse-articles_article {

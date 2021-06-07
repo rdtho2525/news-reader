@@ -34,6 +34,8 @@ function App() {
     } else {
       setMessage(`There were no search results for: '${searchInput}'`);
     }
+
+    clearInput()
   }
 
   const handleSearch = (e) => {
@@ -63,12 +65,12 @@ function App() {
         navToViewStories={navToViewStories}
         clearInput={clearInput}
       />
-      {error && <h2 className="app_error">⚠️ {error}</h2>}
+      {error && <h2 className="app_error" data-cy="app_error">⚠️ {error}</h2>}
       {!error &&
       <main className="app_main">
         <Switch>
           <Route exact path="/stories">
-            {!articles.length ? <CircularProgress /> :
+            {!articles.length ? <CircularProgress data-cy="app_loading-icon"/> :
             <BrowseArticles 
               articles={articles}
               searchResults={searchResults}
