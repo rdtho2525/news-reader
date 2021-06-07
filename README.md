@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Selector (Front-End)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. [Overview](#overview)
+2. [Team](#create-by)
+3. [Planning Resources](#planning-resources)
+4. [Set Up](#setup-instructions)
+5. [Learning Goals](#learning-goals)
+6. [Technologies](#technologies)
+7. [Features](#features)
+8. [Challenges](#challenges)
+9. [Wins](#wins)
+10. [Future Additions](#future-iterations)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Overview:
+_NewsReader_ is a news browsing application that allows users to find the latest news stories provided by _The New York Times_. This application serves as a take-home exercise as part of Turing School of Software and Design's 4th Module.
 
-### `npm start`
+## Created by:
+- [Reggie Thompson](https://github.com/rdtho2525) | [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Planning Resources
 
-### `npm test`
+* [GitHub Project Board](https://github.com/rdtho2525/news-reader/projects)
+* [wireframe](<img width="930" alt="wireframe" src="https://user-images.githubusercontent.com/70557704/121052326-81f0a700-c777-11eb-962e-5f404ca046e5.png">
+)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Setup Instructions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone down this repository to your local machine:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+git clone git@github.com:selector-turing/front_end.git
+```
 
-### `npm run eject`
+Then `npm install` the following dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+@material-ui/core
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+@material-ui/icons
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+@material-ui/lab
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+To start application, run:
 
-## Learn More
+```
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+After a successful compilation, the application is running and the app can be veiwed at `http://localhost:3000/` in your browser.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Learning Goals
++ Create a full functioning React app in a short period of time to replicate a take-home challenge I may receive during the job hunting process
++ Practice planning and problem-solving skills
++ Present an application demo and explain the thought process behind the decisions made while designing and building the app
 
-### Analyzing the Bundle Size
+## Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Cypress" src='https://img.shields.io/badge/cypress%20-%23404d59.svg?&style=for-the-badge&logo=Cypress&logoColor=white'/>
+<img alt="React Router" src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
+<img alt="Material UI" src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
+<!-- <img alt="Travis CI" src='https://img.shields.io/travis/jupyterhub/jupyterhub/master?logo=travis'/> -->
 
-### Making a Progressive Web App
+---
+## Features
++ Browse a variety of the latest articles around the world
++ Search for a specific article by characters in its title
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Application Demo
+![Dashboard](https://user-images.githubusercontent.com/70557704/121054292-730af400-c779-11eb-848e-3e0dde2d1ee2.png)
+![Details](https://user-images.githubusercontent.com/70557704/121055012-21af3480-c77a-11eb-873b-bd68880e6e2b.png)
+![Search Results](https://user-images.githubusercontent.com/70557704/121054607-c1b88e00-c779-11eb-861d-100fbcb8a8c7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+---
+## Future Iterations
++ Add a feature to allow users to filter by topic
++ Add a feature that allos users to save stories ina Reading List
++ Improve mobile-view UX by adding a footer navigation
++ Scrub data to add messaging for missing captions
++ Format publishing and updating dates for readability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
