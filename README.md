@@ -23,9 +23,9 @@ _NewsReader_ is a news browsing application that allows users to find the latest
 
 * [GitHub Project Board](https://github.com/rdtho2525/news-reader/projects)
 
-###Wireframe
+### Wireframe
 
-* ![wireframe](https://user-images.githubusercontent.com/70557704/121052326-81f0a700-c777-11eb-962e-5f404ca046e5.png)
+![wireframe](https://user-images.githubusercontent.com/70557704/121052326-81f0a700-c777-11eb-962e-5f404ca046e5.png)
 
 
 ## Setup Instructions
