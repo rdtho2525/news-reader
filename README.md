@@ -86,7 +86,8 @@ After a successful compilation, the application is running and the app can be ve
 ### Application Demo
 ![Dashboard](https://user-images.githubusercontent.com/70557704/121054292-730af400-c779-11eb-848e-3e0dde2d1ee2.png)
 ![Details](https://user-images.githubusercontent.com/70557704/121055012-21af3480-c77a-11eb-873b-bd68880e6e2b.png)
-![Search Results](https://user-images.githubusercontent.com/70557704/121054607-c1b88e00-c779-11eb-861d-100fbcb8a8c7.png)
+![Search Results](https://user-images.githubusercontent.com/70557704/121055160-41def380-c77a-11eb-9b16-cfaa4e4bc9eb.png)
+
 
 
 ---
