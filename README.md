@@ -7,9 +7,7 @@
 5. [Learning Goals](#learning-goals)
 6. [Technologies](#technologies)
 7. [Features](#features)
-8. [Challenges](#challenges)
-9. [Wins](#wins)
-10. [Future Additions](#future-iterations)
+8. [Future Additions](#future-iterations)
 
 
 ## Overview:
