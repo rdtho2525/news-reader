@@ -45,10 +45,6 @@ Then `npm install` the following dependencies:
 @material-ui/icons
 ```
 
-```
-@material-ui/lab
-```
-
 To start application, run:
 
 ```
@@ -89,7 +85,6 @@ After a successful compilation, the application is running and the app can be ve
 ![Search Results](https://user-images.githubusercontent.com/70557704/121055160-41def380-c77a-11eb-9b16-cfaa4e4bc9eb.png)
 
 
-
 ---
 ## Future Iterations
 + Add a feature to allow users to filter by topic
@@ -97,5 +92,3 @@ After a successful compilation, the application is running and the app can be ve
 + Improve mobile-view UX by adding a footer navigation
 + Scrub data to add messaging for missing captions
 + Format publishing and updating dates for readability
-
-
