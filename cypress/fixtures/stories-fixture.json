@@ -1,0 +1,813 @@
+{
+  "results": [
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Movie Museum Rethinks Exhibitions in Response to a Changing World",
+      "abstract": "The Academy Museum of Motion Pictures, opening in September, has redesigned its galleries amid social movements like Black Lives Matter.",
+      "url": "https://www.nytimes.com/2021/06/06/movies/academy-museum-oscars-diversity.html",
+      "uri": "nyt://article/81345714-b52c-510c-8735-43dd560bcbdb",
+      "byline": "By Robin Pogrebin",
+      "item_type": "Article",
+      "updated_date": "2021-06-06T10:01:43-04:00",
+      "created_date": "2021-06-06T09:54:42-04:00",
+      "published_date": "2021-06-06T09:54:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Movies",
+          "Museums",
+          "Academy Awards (Oscars)",
+          "Black People",
+          "Discrimination",
+          "Black Lives Matter Movement",
+          "#MeToo Movement",
+          "Minorities"
+      ],
+      "org_facet": [
+          "Academy Museum of Motion Pictures",
+          "Academy of Motion Picture Arts and Sciences"
+      ],
+      "per_facet": [
+          "Kramer, Bill (Museum Executive)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/arts/06academy-museum-8/06academy-museum-8-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1170,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "A rendering shows how the exhibitions at the museum have been overhauled after a redesign by Kulapat Yantrasast of WHY Architecture.",
+              "copyright": "Academy Museum Foundation/WHY Architecture"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/arts/06academy-museum-8/06academy-museum-8-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "A rendering shows how the exhibitions at the museum have been overhauled after a redesign by Kulapat Yantrasast of WHY Architecture.",
+              "copyright": "Academy Museum Foundation/WHY Architecture"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/arts/06academy-museum-8/06academy-museum-8-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "A rendering shows how the exhibitions at the museum have been overhauled after a redesign by Kulapat Yantrasast of WHY Architecture.",
+              "copyright": "Academy Museum Foundation/WHY Architecture"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/arts/06academy-museum-8/06academy-museum-8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "A rendering shows how the exhibitions at the museum have been overhauled after a redesign by Kulapat Yantrasast of WHY Architecture.",
+              "copyright": "Academy Museum Foundation/WHY Architecture"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/arts/06academy-museum-8/06academy-museum-8-articleInline.jpg",
+              "format": "Normal",
+              "height": 109,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "A rendering shows how the exhibitions at the museum have been overhauled after a redesign by Kulapat Yantrasast of WHY Architecture.",
+              "copyright": "Academy Museum Foundation/WHY Architecture"
+          }
+      ],
+      "short_url": "https://nyti.ms/34TyFaA"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "How Lin-Manuel Miranda and Friends Made an Old Bookstore New",
+      "abstract": "The century-old Drama Book Shop in Manhattan struggled for years. Then “Hamilton” happened.",
+      "url": "https://www.nytimes.com/2021/06/06/theater/drama-book-shop-lin-manuel-miranda.html",
+      "uri": "nyt://article/4bd36982-ebb2-52f9-85ce-f62e9f32281d",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2021-06-06T16:07:08-04:00",
+      "created_date": "2021-06-06T14:18:33-04:00",
+      "published_date": "2021-06-06T14:18:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Theater",
+          "Shutdowns (Institutional)",
+          "Books and Literature",
+          "Book Trade and Publishing"
+      ],
+      "org_facet": [
+          "Drama Book Shop (Manhattan, NY)"
+      ],
+      "per_facet": [
+          "Kail, Thomas",
+          "Korins, David",
+          "Miranda, Lin-Manuel",
+          "Nederlander, James L (1960- )"
+      ],
+      "geo_facet": [
+          "Midtown Area (Manhattan, NY)"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/arts/06dramabookshop4/merlin_188814678_408480a2-3983-4584-970b-152b958df73a-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Jeenah Moon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/arts/06dramabookshop4/06dramabookshop4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Jeenah Moon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/arts/06dramabookshop4/06dramabookshop4-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Jeenah Moon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/arts/06dramabookshop4/merlin_188814678_408480a2-3983-4584-970b-152b958df73a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Jeenah Moon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/arts/06dramabookshop4/merlin_188814678_408480a2-3983-4584-970b-152b958df73a-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Jeenah Moon for The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3psEV2o"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Pandemic or Not, Proms Are Back",
+      "abstract": "Four California high schools. Four Covid-influenced proms. The more rituals of growing up change, the more they stay the same.",
+      "url": "https://www.nytimes.com/2021/06/05/us/high-school-prom-covid.html",
+      "uri": "nyt://article/645fe5be-5c42-5593-95cb-98b5175fd096",
+      "byline": "By Jill Cowan and Maggie Shannon",
+      "item_type": "Article",
+      "updated_date": "2021-06-06T01:04:11-04:00",
+      "created_date": "2021-06-05T05:00:24-04:00",
+      "published_date": "2021-06-05T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Proms",
+          "Coronavirus (2019-nCoV)",
+          "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+          "California"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/05prom-encore-6/merlin_188739990_281b4289-8349-44cd-a2f2-a18952fd2eb2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The dance floor.",
+              "copyright": ""
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/05prom-encore-6/merlin_188739990_281b4289-8349-44cd-a2f2-a18952fd2eb2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The dance floor.",
+              "copyright": ""
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/05prom-encore-6/merlin_188739990_281b4289-8349-44cd-a2f2-a18952fd2eb2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The dance floor.",
+              "copyright": ""
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/05prom-encore-6/merlin_188739990_281b4289-8349-44cd-a2f2-a18952fd2eb2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The dance floor.",
+              "copyright": ""
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/05prom-encore-6/merlin_188739990_281b4289-8349-44cd-a2f2-a18952fd2eb2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The dance floor.",
+              "copyright": ""
+          }
+      ],
+      "short_url": "https://nyti.ms/34NxKIT"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "Black Lives Matter Has Grown More Powerful, and More Divided",
+      "abstract": "Since the murder of George Floyd, the racial justice movement has received millions of dollars in donations. But some chapters have questioned how those funds are spent.",
+      "url": "https://www.nytimes.com/2021/06/04/us/black-lives-matter.html",
+      "uri": "nyt://article/3063abd1-9401-5390-819f-e45f096f0223",
+      "byline": "By John Eligon",
+      "item_type": "Article",
+      "updated_date": "2021-06-05T11:27:57-04:00",
+      "created_date": "2021-06-04T19:30:33-04:00",
+      "published_date": "2021-06-04T19:30:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Black Lives Matter Movement",
+          "Finances",
+          "George Floyd Protests (2020)",
+          "Black People",
+          "Police Brutality, Misconduct and Shootings",
+          "Race and Ethnicity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/03/us/04BLM-YEARLATER/00BLM-YEARLATER8-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Seventeen chapters have broken away from the national Black Lives Matter organization, claiming that its leaders had failed to provide financial transparency or include the chapters in decision-making.",
+              "copyright": "Amr Alfiky/The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/03/us/04BLM-YEARLATER/00BLM-YEARLATER8-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Seventeen chapters have broken away from the national Black Lives Matter organization, claiming that its leaders had failed to provide financial transparency or include the chapters in decision-making.",
+              "copyright": "Amr Alfiky/The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/03/us/04BLM-YEARLATER/00BLM-YEARLATER8-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Seventeen chapters have broken away from the national Black Lives Matter organization, claiming that its leaders had failed to provide financial transparency or include the chapters in decision-making.",
+              "copyright": "Amr Alfiky/The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/03/us/04BLM-YEARLATER/00BLM-YEARLATER8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Seventeen chapters have broken away from the national Black Lives Matter organization, claiming that its leaders had failed to provide financial transparency or include the chapters in decision-making.",
+              "copyright": "Amr Alfiky/The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/03/us/04BLM-YEARLATER/00BLM-YEARLATER8-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Seventeen chapters have broken away from the national Black Lives Matter organization, claiming that its leaders had failed to provide financial transparency or include the chapters in decision-making.",
+              "copyright": "Amr Alfiky/The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3vV3RlQ"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "How to Prepare for Hurricane Season and Evacuations",
+      "abstract": "Here are some tips for getting ready: Make a plan, make digital copies of important documents, and prepare an emergency kit.",
+      "url": "https://www.nytimes.com/article/hurricane-how-to-prepare.html",
+      "uri": "nyt://article/6a82f8a3-91c5-5d1a-8779-d13b15d341fc",
+      "byline": "By Livia Albeck-Ripka",
+      "item_type": "Article",
+      "updated_date": "2021-06-04T15:49:54-04:00",
+      "created_date": "2021-06-04T15:49:54-04:00",
+      "published_date": "2021-06-04T15:49:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Hurricanes and Tropical Storms",
+          "Weather",
+          "Evacuations and Evacuees"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 493,
+              "width": 876,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Illustration by The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Illustration by The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Illustration by The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Illustration by The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "",
+              "copyright": "Illustration by The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3pkpGIW"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "A Rogue Climber Running From the Law Was Fleeing His Own Trauma",
+      "abstract": "A former paratrooper became an “urban explorer,” scaling the tops of bridges and buildings to help ease his PTSD. He now faces criminal charges in several states.",
+      "url": "https://www.nytimes.com/2021/06/04/us/isaac-wright-driftershoots-ptsd.html",
+      "uri": "nyt://article/654feb31-a9a6-5076-a772-d70973b80eb6",
+      "byline": "By Dave Philipps",
+      "item_type": "Article",
+      "updated_date": "2021-06-06T00:51:19-04:00",
+      "created_date": "2021-06-04T05:00:27-04:00",
+      "published_date": "2021-06-04T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Veterans",
+          "Post-Traumatic Stress Disorder",
+          "Depression (Mental)",
+          "Trespassing",
+          "Content Type: Personal Profile",
+          "Buildings (Structures)",
+          "Bridges and Tunnels",
+          "Therapy and Rehabilitation",
+          "Photography"
+      ],
+      "org_facet": [],
+      "per_facet": [
+          "Wright, Isaac Kendall"
+      ],
+      "geo_facet": [
+          "Cincinnati (Ohio)"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/us/00climber-portrait/merlin_186407121_2403a9cf-2ce0-4a08-b350-1dff91cf4019-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Isaac Wright, who served in the Army for six years, began taking stunning photographs from the top of tall structures as a form of therapy for PTSD.",
+              "copyright": "Maddie McGarvey for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/us/00climber-portrait/merlin_186407121_2403a9cf-2ce0-4a08-b350-1dff91cf4019-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Isaac Wright, who served in the Army for six years, began taking stunning photographs from the top of tall structures as a form of therapy for PTSD.",
+              "copyright": "Maddie McGarvey for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/us/00climber-portrait/merlin_186407121_2403a9cf-2ce0-4a08-b350-1dff91cf4019-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Isaac Wright, who served in the Army for six years, began taking stunning photographs from the top of tall structures as a form of therapy for PTSD.",
+              "copyright": "Maddie McGarvey for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/us/00climber-portrait/merlin_186407121_2403a9cf-2ce0-4a08-b350-1dff91cf4019-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Isaac Wright, who served in the Army for six years, began taking stunning photographs from the top of tall structures as a form of therapy for PTSD.",
+              "copyright": "Maddie McGarvey for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/06/us/00climber-portrait/merlin_186407121_2403a9cf-2ce0-4a08-b350-1dff91cf4019-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Isaac Wright, who served in the Army for six years, began taking stunning photographs from the top of tall structures as a form of therapy for PTSD.",
+              "copyright": "Maddie McGarvey for The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3x1f5p3"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "Supreme Court Won’t Hear Case on Limiting Military Draft to Men",
+      "abstract": "The justices had been asked to decide whether one of the last sex-based distinctions in federal law should survive now that women can serve in combat.",
+      "url": "https://www.nytimes.com/2021/06/07/us/supreme-court-draft.html",
+      "uri": "nyt://article/dbfbc381-725f-5889-8f23-d2788b948726",
+      "byline": "By Adam Liptak",
+      "item_type": "Article",
+      "updated_date": "2021-06-07T10:12:13-04:00",
+      "created_date": "2021-06-07T10:12:13-04:00",
+      "published_date": "2021-06-07T10:12:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Women and Girls",
+          "Draft and Recruitment (Military)",
+          "United States Defense and Military Forces",
+          "United States Politics and Government"
+      ],
+      "org_facet": [
+          "Supreme Court (US)",
+          "American Civil Liberties Union",
+          "National Coalition for Men"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/politics/07dc-scotus/merlin_170584197_ad8289fb-fa7e-4d73-9c22-6b5d0d31afec-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Women Marine recruits training at Parris Island in South Carolina last year.",
+              "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/politics/07dc-scotus/07dc-scotus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Women Marine recruits training at Parris Island in South Carolina last year.",
+              "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/politics/07dc-scotus/07dc-scotus-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Women Marine recruits training at Parris Island in South Carolina last year.",
+              "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/politics/07dc-scotus/merlin_170584197_ad8289fb-fa7e-4d73-9c22-6b5d0d31afec-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Women Marine recruits training at Parris Island in South Carolina last year.",
+              "copyright": "Hilary Swift for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/politics/07dc-scotus/merlin_170584197_ad8289fb-fa7e-4d73-9c22-6b5d0d31afec-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Women Marine recruits training at Parris Island in South Carolina last year.",
+              "copyright": "Hilary Swift for The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3vVZ9Ei"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "She Was Stabbed and Left in a Cornfield in 1972. Now There’s an Arrest.",
+      "abstract": "Barry Lee Whelpley, now 76, was charged with killing Julie Ann Hanson, who was 15 when her body was found in Naperville, Ill., the authorities said.",
+      "url": "https://www.nytimes.com/2021/06/07/us/julie-ann-hanson-naperville.html",
+      "uri": "nyt://article/daf8eb55-ea3d-50a6-9d82-91f7f7a2e1bf",
+      "byline": "By Neil Vigdor",
+      "item_type": "Article",
+      "updated_date": "2021-06-07T09:26:02-04:00",
+      "created_date": "2021-06-07T09:26:02-04:00",
+      "published_date": "2021-06-07T09:26:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Forensic Science",
+          "Murders, Attempted Murders and Homicides",
+          "Genealogy",
+          "DNA (Deoxyribonucleic Acid)",
+          "Missing Persons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+          "Chicago (Ill)",
+          "Illinois",
+          "Naperville (Ill)",
+          "Minnesota"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/multimedia/07xp-coldcase2/07xp-coldcase2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1536,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Julie Ann Hanson",
+              "copyright": "Naperville Police Department"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/multimedia/07xp-coldcase2/07xp-coldcase2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Julie Ann Hanson",
+              "copyright": "Naperville Police Department"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/multimedia/07xp-coldcase2/07xp-coldcase2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Julie Ann Hanson",
+              "copyright": "Naperville Police Department"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/multimedia/07xp-coldcase2/07xp-coldcase2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Julie Ann Hanson",
+              "copyright": "Naperville Police Department"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/multimedia/07xp-coldcase2/07xp-coldcase2-articleInline.jpg",
+              "format": "Normal",
+              "height": 253,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Julie Ann Hanson",
+              "copyright": "Naperville Police Department"
+          }
+      ],
+      "short_url": "https://nyti.ms/3cqkjmf"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "Will You Go to Prom With Us?",
+      "abstract": "Monday: The Times attended four pandemic-influenced proms across California. They were colorful, poignant and joyful.",
+      "url": "https://www.nytimes.com/2021/06/07/us/proms-covid.html",
+      "uri": "nyt://article/b080def4-b2a1-58d4-9570-defca74863e1",
+      "byline": "By Jill Cowan",
+      "item_type": "Article",
+      "updated_date": "2021-06-07T08:51:24-04:00",
+      "created_date": "2021-06-07T08:51:24-04:00",
+      "published_date": "2021-06-07T08:51:24-04:00",
+      "material_type_facet": "",
+      "kicker": "California Today",
+      "des_facet": [
+          "Education (K-12)",
+          "Proms",
+          "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+          "California"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/07californiatoday4-promo/merlin_188739993_93223b8e-56c6-4373-9b52-914255d5621e-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Encore High School seniors Caroline Esquivel, Danielle Fiorillo, Ellice Mills, Jaired Mason (graduate) and Kelina Mills dance on their way to prom in a limo.",
+              "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/07californiatoday4-promo/merlin_188739993_93223b8e-56c6-4373-9b52-914255d5621e-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Encore High School seniors Caroline Esquivel, Danielle Fiorillo, Ellice Mills, Jaired Mason (graduate) and Kelina Mills dance on their way to prom in a limo.",
+              "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/07californiatoday4-promo/merlin_188739993_93223b8e-56c6-4373-9b52-914255d5621e-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Encore High School seniors Caroline Esquivel, Danielle Fiorillo, Ellice Mills, Jaired Mason (graduate) and Kelina Mills dance on their way to prom in a limo.",
+              "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/07californiatoday4-promo/merlin_188739993_93223b8e-56c6-4373-9b52-914255d5621e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Encore High School seniors Caroline Esquivel, Danielle Fiorillo, Ellice Mills, Jaired Mason (graduate) and Kelina Mills dance on their way to prom in a limo.",
+              "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/us/07californiatoday4-promo/merlin_188739993_93223b8e-56c6-4373-9b52-914255d5621e-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "Encore High School seniors Caroline Esquivel, Danielle Fiorillo, Ellice Mills, Jaired Mason (graduate) and Kelina Mills dance on their way to prom in a limo.",
+              "copyright": "Maggie Shannon for The New York Times"
+          }
+      ],
+      "short_url": "https://nyti.ms/3pr1jcK"
+  },
+  {
+      "section": "us",
+      "subsection": "",
+      "title": "Pair of Arizona Wildfires Burns Tens of Thousands of Acres",
+      "abstract": "No deaths or injuries have been reported in the blazes east of Phoenix, and the causes are under investigation.",
+      "url": "https://www.nytimes.com/2021/06/07/us/fire-telegraph-mescal-arizona.html",
+      "uri": "nyt://article/81da4084-d5af-5c50-916a-8f48e0bf0f4c",
+      "byline": "By Daniel Victor",
+      "item_type": "Article",
+      "updated_date": "2021-06-07T09:31:06-04:00",
+      "created_date": "2021-06-07T08:26:31-04:00",
+      "published_date": "2021-06-07T08:26:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+          "Wildfires"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+          "Arizona"
+      ],
+      "multimedia": [
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/world/07xp-wildfires/07xp-wildfires-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1296,
+              "width": 2048,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The Telegraph Fire, about 70 miles east of Phoenix, had burned more than 41,000 acres as of Monday morning.",
+              "copyright": "3TV/CBS 5"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/world/07xp-wildfires/07xp-wildfires-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The Telegraph Fire, about 70 miles east of Phoenix, had burned more than 41,000 acres as of Monday morning.",
+              "copyright": "3TV/CBS 5"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/world/07xp-wildfires/07xp-wildfires-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The Telegraph Fire, about 70 miles east of Phoenix, had burned more than 41,000 acres as of Monday morning.",
+              "copyright": "3TV/CBS 5"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/world/07xp-wildfires/07xp-wildfires-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The Telegraph Fire, about 70 miles east of Phoenix, had burned more than 41,000 acres as of Monday morning.",
+              "copyright": "3TV/CBS 5"
+          },
+          {
+              "url": "https://static01.nyt.com/images/2021/06/07/world/07xp-wildfires/07xp-wildfires-articleInline.jpg",
+              "format": "Normal",
+              "height": 120,
+              "width": 190,
+              "type": "image",
+              "subtype": "photo",
+              "caption": "The Telegraph Fire, about 70 miles east of Phoenix, had burned more than 41,000 acres as of Monday morning.",
+              "copyright": "3TV/CBS 5"
+          }
+      ],
+      "short_url": "https://nyti.ms/3pr6x8e"
+    }
+  ]
+}
