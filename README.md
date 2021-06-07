@@ -77,6 +77,7 @@ After a successful compilation, the application is running and the app can be ve
 ## Features
 + Browse a variety of the latest articles around the world
 + Search for a specific article by characters in its title
++ Visit the full article on _The New York Times_ website via hyperlink
 
 
 ### Application Demo
