@@ -1,4 +1,4 @@
-# Selector (Front-End)
+# NewsReader
 
 1. [Overview](#overview)
 2. [Team](#create-by)
@@ -22,8 +22,10 @@ _NewsReader_ is a news browsing application that allows users to find the latest
 ## Planning Resources
 
 * [GitHub Project Board](https://github.com/rdtho2525/news-reader/projects)
-* [wireframe](<img width="930" alt="wireframe" src="https://user-images.githubusercontent.com/70557704/121052326-81f0a700-c777-11eb-962e-5f404ca046e5.png">
-)
+
+###Wireframe
+
+* ![wireframe](https://user-images.githubusercontent.com/70557704/121052326-81f0a700-c777-11eb-962e-5f404ca046e5.png)
 
 
 ## Setup Instructions
@@ -32,7 +34,7 @@ _NewsReader_ is a news browsing application that allows users to find the latest
 Clone down this repository to your local machine:
 
 ```
-git clone git@github.com:selector-turing/front_end.git
+git clone git@github.com:rdtho2525/news-reader.git
 ```
 
 Then `npm install` the following dependencies:
